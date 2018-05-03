@@ -9,3 +9,11 @@ function forLoop(array) {
   }
   return array;
 }
+function maybeTure () {
+  for let countdown=100
+}
+while (naybeTrue ()) {
+  console.log ("And I ran; I ran so far away!");
+}
+return "done";
+}
