@@ -9,7 +9,7 @@ function forLoop(array) {
   }
   return array;
 }
-function whileLoop ()
+function whileLoop (number)
 while (naybeTrue ()) {
   console.log ("And I ran; I ran so far away!");
 }
