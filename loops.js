@@ -21,7 +21,7 @@ return "done";
 }
 function doWhileLoop (array) {
 do {
-  array.pop ()
+  array.pop ();
   console.log('doo-bee-doo-bee-doo')
 } while (maybeTrue());
 }
