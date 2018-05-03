@@ -9,9 +9,7 @@ function forLoop(array) {
   }
   return array;
 }
-function maybeTure () {
-  for let countdown=100
-}
+function whileLoop ()
 while (naybeTrue ()) {
   console.log ("And I ran; I ran so far away!");
 }
